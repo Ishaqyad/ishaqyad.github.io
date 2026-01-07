@@ -35,14 +35,19 @@ Read more: [LinkedIn Post](https://www.linkedin.com/posts/ishaqyusufad_in-2025-i
 *October 2025 - Present*
 
 - Built a full-stack trading platform using a Next.js App Router frontend with React and TypeScript.
-
-
+- Implemented stock data ingestion through FastAPI services with Prisma-managed SQLite storage to compute SMA
+and EMA indicators.
+- Collaborated in an Agile, monorepo-based environment using TurboRepo and Git workflows to deliver modular
+components.
 
 ### PyNet Chat Client  
 *Python, TCP Sockets, JSON, Bash, Git*  
 *February 2024 - June 2024*
 
-
+- Built a terminal-based multi-user chat client supporting public and private messaging over TCP sockets using
+Python threading.
+- Developed Bash shell scripts to automate client startup, testing workflows, and local networking setup during
+development.
 
 ---
 
