@@ -31,8 +31,8 @@ Read more: [LinkedIn Post](https://www.linkedin.com/posts/ishaqyusufad_in-2025-i
 *October 2025 - Present*
 
 - Built a full-stack trading platform using a Next.js App Router frontend with React and TypeScript.
-• Developed interactive price charts and simulated trading workflows using Recharts within a React frontend.
-• Collaborated in an Agile, monorepo-based environment using TurboRepo and Git workflows to deliver modular
+- Developed interactive price charts and simulated trading workflows using Recharts within a React frontend.
+- Collaborated in an Agile, monorepo-based environment using TurboRepo and Git workflows to deliver modular
 components.
 
 
@@ -40,7 +40,7 @@ components.
 *Python, TCP Sockets, JSON, Bash, Git*  
 *February 2024 - June 2024*
 
-• Built a terminal-based multi-user chat client supporting public and private messaging over TCP sockets using
+- Built a terminal-based multi-user chat client supporting public and private messaging over TCP sockets using
 Python threading.
 - Developed Bash shell scripts to automate client startup, testing workflows, and local networking setup during
 development.
