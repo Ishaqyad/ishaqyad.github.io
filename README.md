@@ -2,15 +2,14 @@
 layout: default
 ---
 
-
 ## Education
----
+
 
 **Bachelor of Science in Computer Science,**  
 Metropolitan State University | St. Paul, MN
 
 ## Technical Skills
----
+
 
 **Languages:** TypeScript, JavaScript, Python, HTML, CSS, Java, C, C++  
 **Frameworks:** Prisma, Next.js, tRPC, Jest, Tailwind CSS, Vitest, Playwright, Supabase, PostgreSQL  
