@@ -26,9 +26,9 @@ Read more: [LinkedIn Post](https://www.linkedin.com/posts/ishaqyusufad_in-2025-i
 ## Recent Projects
 ---
 
-### Augur Trader  
-*Next.js, TypeScript, React, FastAPI, Prisma, SQLite*  
-*October 2025 - Present*
+### [Augur Trader](https://github.com/Ishaqyad/augur-trader)  
+Next.js, TypeScript, React, FastAPI, Prisma, SQLite  
+October 2025 – Present
 
 - Built a full-stack trading platform using a Next.js App Router frontend with React and TypeScript.
 - Developed interactive price charts and simulated trading workflows using Recharts within a React frontend.
@@ -36,9 +36,9 @@ Read more: [LinkedIn Post](https://www.linkedin.com/posts/ishaqyusufad_in-2025-i
 components.
 
 
-### PyNet Chat Client  
-*Python, TCP Sockets, JSON, Bash, Git*  
-*February 2024 - June 2024*
+### [PyNet Chat Client](https://github.com/Ishaqyad/terminal-chat)  
+Python, TCP Sockets, JSON, Bash, Git  
+February 2024 – June 2024
 
 - Built a terminal-based multi-user chat client supporting public and private messaging over TCP sockets using
 Python threading.
