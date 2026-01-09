@@ -26,7 +26,7 @@ Read more: [LinkedIn Post](https://www.linkedin.com/posts/ishaqyusufad_in-2025-i
 ## Recent Projects
 ---
 
-### [Augur Trader](https://github.com/Ishaqyad/augur-trader)  
+### [Augur Trader](https://github.com/Ishaqyad/augur-trader) 🔗  
 Next.js, TypeScript, React, FastAPI, Prisma, SQLite  
 October 2025 – Present
 
@@ -36,7 +36,7 @@ October 2025 – Present
 components.
 
 
-### [PyNet Chat Client](https://github.com/Ishaqyad/terminal-chat)  
+### [PyNet Chat Client](https://github.com/Ishaqyad/terminal-chat) 🔗  
 Python, TCP Sockets, JSON, Bash, Git  
 February 2024 – June 2024
 
